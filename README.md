@@ -130,6 +130,6 @@ Open a pull request
 Distributed under the MIT License. See LICENSE for more information.
 
 **Contact**
-Project Maintainer: **Balaji**
-Email: balajikarthik2004@gmail.con
+Project Maintainer: **vaseem**
+Email: svaseemm@gmail.con
 Project Link: https://kb-connectify.vercel.app/
